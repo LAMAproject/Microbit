@@ -45,7 +45,10 @@ while True:
         display.clear()
 ```
 
-![alt text](https://github.com/LAMAproject/Microbit/blob/master/IMG_20190906_092726_BURST001_COVER.jpg "The microbit "fit bit" when a person isn't walking.")
+![alt text](https://github.com/LAMAproject/Microbit/blob/master/IMG_20190906_092726_BURST001_COVER.jpg "The microbit fit bit when a person isn't walking.")
+
 ![alt text](https://github.com/LAMAproject/Microbit/blob/master/IMG_20190906_092820_BURST001_COVER.jpg "The step counter that shows the amount of steps taken,when button a is pressed")
+
 ![alt text](https://github.com/LAMAproject/Microbit/blob/master/IMG_20190906_095553.jpg "The microbit when connected to a battery. This means that the fit bit can be portable.")
+
 ![alt text](https://github.com/LAMAproject/Microbit/blob/master/IMG_20190906_095702_BURST001_COVER.jpg "The microbit when a person walks.(A specific face will be shown depending on the amount of steps taken. a step is added to the counter.")
